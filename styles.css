@@ -642,35 +642,9 @@ h1 {
   font-size: 11px;
 }
 
-.contact {
-  padding-bottom: 100px;
-}
-
-.contact .eyebrow {
-  margin-bottom: 24px;
-}
-
-.contact h2 {
-  margin-bottom: 30px;
-  font-size: clamp(56px, 9vw, 102px);
-}
-
-.contact-email {
-  display: inline-flex;
-  align-items: center;
-  gap: 14px;
-  padding-bottom: 7px;
-  border-bottom: 1px solid var(--accent);
-  color: var(--accent);
-  font-family: var(--display);
-  font-size: clamp(18px, 3vw, 27px);
-  letter-spacing: -0.03em;
-}
-
 .social-links {
   display: flex;
   gap: 23px;
-  margin-top: 30px;
   color: var(--muted);
 }
 
